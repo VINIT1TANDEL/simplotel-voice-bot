@@ -20,9 +20,9 @@ This bot handles customer queries regarding room availability and pricing using 
 
 ## ⚙️ Installation & Run
 1. Clone the repository.
-2. Install dependencies:
-   pip install -r requirements.txt
-3.Create a .env file and add your Groq Key:
-GROQ_API_KEY=your_key_here
-4.Run the app:
-streamlit run app.py
+2. Install dependencies:.
+   pip install -r requirements.txt.
+3.Create a .env file and add your Groq Key:.
+GROQ_API_KEY=your_key_here.
+4.Run the app:.
+streamlit run app.py.
