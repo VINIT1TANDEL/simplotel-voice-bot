@@ -1,7 +1,7 @@
 # 🏨 Simplotel Voice Concierge
 
 An intelligent voice-enabled hotel assistant built for the Simplotel AI Intern assignment. 
-This bot handles customer queries regarding room availability and pricing using real-time database lookups and tracks system performance.
+This bot handles customer queries regarding room availability and pricing using real-time database lookups.
 
 ## 🌟 Features
 - **Voice-to-Voice Interaction:**   using Groq & Whisper.
