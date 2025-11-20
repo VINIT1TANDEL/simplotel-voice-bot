@@ -1,6 +1,6 @@
-# 🏨 Simplotel Voice Concierge
+# 🏨  Voice Concierge
 
-An intelligent voice-enabled hotel assistant built for the Simplotel AI Intern assignment. 
+An intelligent voice-enabled hotel assistant built for the  AI Intern assignment. 
 This bot handles customer queries regarding room availability and pricing using real-time database lookups.
 
 ## 🌟 Features
@@ -23,8 +23,8 @@ This bot handles customer queries regarding room availability and pricing using 
 ### Installation
 
 1. **Clone the repository**
-  git clone https://github.com/VINIT1TANDEL/simplotel-voice-bot.git
-  cd simplotel-voice-bot
+  git clone https://github.com/VINIT1TANDEL/Assignment-VoiceBot.git
+  cd Assignment-VoiceBot
 
 2. **Install dependencies**
 
