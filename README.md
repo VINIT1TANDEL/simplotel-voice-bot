@@ -23,7 +23,7 @@ This bot handles customer queries regarding room availability and pricing using 
 ### Installation
 
 1. **Clone the repository**
-  git clone https://github.com/VINIT1TANDEL/Assignment-VoiceBot.git
+  git clone https://github.com/VINIT1TANDEL/Assignment-VoiceBot.git..
   cd Assignment-VoiceBot
 
 2. **Install dependencies**
