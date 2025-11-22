@@ -39,6 +39,9 @@ This bot handles customer queries regarding room availability and pricing using 
 
    streamlit run app.py
 
+## 🎥 Live Demo
+### [▶️ Click here to watch the Video Demo](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
 
 
 
