@@ -1,5 +1,7 @@
 # 🏨  Voice Concierge
 
+## 🎥 Live Demo
+### [▶️ Click here to watch the Video Demo](https://drive.google.com/file/d/1BseVKWLeBorMreYLY71fhKCbeK0RXSN7/view?usp=sharing)
 An intelligent voice-enabled hotel assistant built for the  AI Intern assignment. 
 This bot handles customer queries regarding room availability and pricing using real-time database lookups.
 
@@ -39,8 +41,7 @@ This bot handles customer queries regarding room availability and pricing using 
 
    streamlit run app.py
 
-## 🎥 Live Demo
-### [▶️ Click here to watch the Video Demo](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
 
 
 
